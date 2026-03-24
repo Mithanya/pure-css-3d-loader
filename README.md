@@ -2,8 +2,8 @@
 
 A lightweight, pure CSS 3D cube loader featuring independent glowing faces and a fluid multi‑axis rotation. Built with only HTML and CSS — no JavaScript.
 
-![Loader Demo](link-to-your-recorded-video-or-gif)  
-*(Replace with the actual video URL or GIF)*
+![Loader Demo](https://github.com/Mithanya/pure-css-3d-loader/blob/main/3d%20loder.mp4)
+
 
 ## Features
 
@@ -27,8 +27,7 @@ Each face has its own `box-shadow` animation with a different `animation-delay`,
 
 ## Live Demo
 
-[View Demo](https://your-demo-link.com) *(Replace with your actual demo URL – CodePen, GitHub Pages, etc.)*
-
+[View Demo](https://github.com/Mithanya/pure-css-3d-loader/blob/main/3d%20loder.mp4)
 ## Code Preview
 
 ```html
